@@ -42,7 +42,7 @@ namespace Movies.Infraestructure.Data
                 new Movie{MovieName="Die Another Day", DirectorName="Lee Tamahori", ReleaseYear="2002"},
                 new Movie{MovieName="Godizilla", DirectorName="Gareth Edward", ReleaseYear="2014"},
 
-            }
+            };
         }
     }
 }
