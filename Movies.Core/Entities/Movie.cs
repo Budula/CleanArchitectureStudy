@@ -14,5 +14,6 @@ namespace Movies.Core.Entities
         public string DirectorName { get; set; }
         public string ReleaseYear { get; set; }
 
+        
     }
 }
